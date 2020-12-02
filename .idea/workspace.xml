@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aadc33c4-ddba-4367-9af9-85625ce412d1" name="Default Changelist" comment="day 2">
+      <change afterPath="$PROJECT_DIR$/.idea/aoc20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="9tgyub8t" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run aoc20" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package aoc20 --bin aoc20" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Run aoc20" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="newResolveEnabled" value="true" />
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aadc33c4-ddba-4367-9af9-85625ce412d1" name="Default Changelist" comment="" />
+      <created>1606895121071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606895121071</updated>
+      <workItem from="1606895122667" duration="5169000" />
+    </task>
+    <task id="LOCAL-00001" summary="day 2">
+      <created>1606910145647</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606910145647</updated>
+    </task>
+    <task id="LOCAL-00002" summary="day 2">
+      <created>1606912709471</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606912709471</updated>
+    </task>
+    <task id="LOCAL-00003" summary="day 2">
+      <created>1606912841946</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606912841946</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1342" height="266" key="GridCell.Tab.0.bottom" timestamp="1606914105679">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1342" height="266" key="GridCell.Tab.0.bottom/5120.0.1536.844/0.0.2048.1112/2560.-4.2048.1112@0.0.2048.1112" timestamp="1606914105679" />
+    <state width="1342" height="266" key="GridCell.Tab.0.center" timestamp="1606914105678">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1342" height="266" key="GridCell.Tab.0.center/5120.0.1536.844/0.0.2048.1112/2560.-4.2048.1112@0.0.2048.1112" timestamp="1606914105678" />
+    <state width="1342" height="266" key="GridCell.Tab.0.left" timestamp="1606914105677">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1342" height="266" key="GridCell.Tab.0.left/5120.0.1536.844/0.0.2048.1112/2560.-4.2048.1112@0.0.2048.1112" timestamp="1606914105677" />
+    <state width="1342" height="266" key="GridCell.Tab.0.right" timestamp="1606914105678">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1342" height="266" key="GridCell.Tab.0.right/5120.0.1536.844/0.0.2048.1112/2560.-4.2048.1112@0.0.2048.1112" timestamp="1606914105678" />
+  </component>
+</project>
